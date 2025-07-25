@@ -30,10 +30,10 @@ A Java Swing-based ethical hacking firewall tool that:
 
 ```bash
 # 1. Compile the program
-javac EthicalFirewallClientGUI.java
+javac EthicalFirewallClient.java
 
 # 2. Run the GUI app
-java EthicalFirewallClientGUI
+java EthicalFirewallClient
 ```
 
 ## 📁 File Structure
