@@ -30,10 +30,10 @@ A Java Swing-based ethical hacking firewall tool that:
 
 ```bash
 # 1. Compile the program
-javac EthicalFirewallClient.java
+javac EthicalFirewall.java
 
 # 2. Run the GUI app
-java EthicalFirewallClient
+java EthicalFirewall
 ```
 
 ## 📁 File Structure
@@ -44,9 +44,7 @@ ethical-firewall-client/
 ├── EthicalFirewallClientGUI.java      # Main GUI source code
 ├── firewall_log.txt                   # Generated firewall log file
 ├── README.md                          # Project readme
-└── screenshots/                       # Folder containing GUI screenshots
-    ├── firewall_gui.png
-    └── tor_check.png
+
 ```
 
 ## 📓 Log File: `firewall_log.txt`
