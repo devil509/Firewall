@@ -73,19 +73,6 @@ This tool is intended for educational purposes **only**. Do not use it to scan o
 
 **Ramanand Patharwalkar**
 
-## 📦 GitHub Setup
-
-To publish this on GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit of Ethical Firewall Client"
-git remote add origin https://github.com/your-username/ethical-firewall-client.git
-git push -u origin main
-```
-
----
 
 Feel free to fork, enhance, and share!
 
