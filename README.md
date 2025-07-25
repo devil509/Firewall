@@ -58,3 +58,24 @@ Each event is logged with a timestamp. Example:
 [Thu Jul 25 18:01:10 IST 2025] Tor anonymity validated.
 ```
 
+
+## ⚠️ Legal Notice
+
+This tool is intended for educational purposes **only**. Do not use it to scan or connect to unauthorized systems. Always get permission before conducting any ethical hacking.
+
+## 📌 Future Enhancements
+
+- GeoIP tagging of target IPs
+- Real-time network traffic graphs
+- Jar bundler + shell installer
+- Integration with system-level firewalls (`iptables`, `ufw`)
+
+## 👨‍💻 Author
+
+**Ramanand Patharwalkar**
+
+
+Feel free to fork, enhance, and share!
+
+
+
