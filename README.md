@@ -55,3 +55,6 @@ Each event is logged with a timestamp. Example:
 
 ```
 [Thu Jul 25 18:00:22 IST 2025] Blocked attempt to connect to 192.168.1.100:22
+[Thu Jul 25 18:01:10 IST 2025] Tor anonymity validated.
+```
+
